@@ -6,7 +6,14 @@ Some tips from [PlotCon 2016](https://plotcon.plot.ly) on data visualization.
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/marionleborgne/data-viz)
 
 
-# HTML slides
+# HTML slides with Jupyter
+
+## Slides setup
+Enable `Slideshow` in  `View > Cell Toolbar`. Then select the slide type of each cell:
+* `Skip` will hide the cell in the slideshow but still run the code.
+* `Slide` starts a new slide. Good for main sections.
+* `Sub-Slide` add a slide at the bottom of the previous slide. Good for sub-sections.
+* `Fragment` adds text in a Slide or Sub-Slide. Good for bullet points.
 
 ## Build
 To build the HTML slides, run:
