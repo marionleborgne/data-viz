@@ -34,3 +34,7 @@ Update Jupyter kernel:
 ```
 sudo jupyter nbextension enable --py  widgetsnbextension
 ```
+
+# Binder
+* Added a `requirements.txt` for python dependencies.
+* Added a `Dockerfile` to enable ipython widgets.
